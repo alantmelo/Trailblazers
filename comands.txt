@@ -1,0 +1,8 @@
+npm i @adonisjs/lucid (ORM)
+node ace configure @adonisjs/lucid
+node ace
+node ace make:model Group -m
+node ace list:routes
+npm i uuid (unique string)
+
+node ace serve --watch
